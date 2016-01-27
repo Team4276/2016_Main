@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Users\Trevor\Desktop\GitMain\Robot_Workspace\.metadata\.plugins\org.eclipse.jdt.core
+2358795579.index
