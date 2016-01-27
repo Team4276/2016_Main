@@ -1,0 +1,27 @@
+Install Git
+
+
+1) Setup the git enviornment
+git config --global user.email "srcarlson100@student.hbuhsd.edu"
+git config --global user.name "Spencer Carlson"
+
+2) Pull the project
+git pull https://github.com/Team4276/2016_Main.git
+
+
+3) How to push changes
+
+git add .
+
+git commit -m "Description of commit"
+
+(ONCE) git remote add origin https://github.com/Team4276/2016_Main.git
+
+git push origin master
+
+
+@@@IMPORTANT COMMANDS@@@
+
+git status
+git branch
+more to come.
