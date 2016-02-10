@@ -3,4 +3,6 @@
 <fullyQualifiedTypeName name="edu.wpi.first.wpilibj.Encoder"/>
 <fullyQualifiedTypeName name="edu.wpi.first.wpilibj.Relay"/>
 <fullyQualifiedTypeName name="edu.wpi.first.wpilibj.Relay.Value"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.Talon"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.Joystick"/>
 </qualifiedTypeNameHistroy>
